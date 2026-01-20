@@ -20,7 +20,7 @@ This project analyzes retail invoice-level data to examine revenue distribution,
 - Invoice revenue is highly right-skewed, with mean AOV significantly higher than the median
 - The top 10% of invoices account for approximately 45% of total revenue
 - Non-UK invoices are significantly larger than UK invoices on average
-- Statistical testing confirmed a significant difference in invoice revenue by region (p < 0.001)
+- Statistical testing confirmed a significant difference in invoice revenue by region (p < 0.01)
 
 ## Notes
 Raw data is excluded due to file size constraints. Analysis was conducted on a cleaned dataset derived from publicly available retail transaction data.
