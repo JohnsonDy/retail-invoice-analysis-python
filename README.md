@@ -6,7 +6,6 @@ This project analyzes retail invoice-level data to examine revenue distribution,
 ## Dataset
 - Publicly available online retail transaction data
 - Transactions aggregated to the invoice level for analysis
-- Approximately 398,000 invoices after data cleaning
 - Raw data excluded from the repository due to file size constraints
 
 ## Tools Used
